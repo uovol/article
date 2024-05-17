@@ -8,7 +8,7 @@
 [在线演示 https://bi.cool/bi/W1P1cyq](https://bi.cool/bi/W1P1cyq)
 
 （chrome 浏览器上演示效果）
-![（chrome 浏览器上演示效果）](图片地址)
+![（chrome 浏览器上演示效果）](/console-image/1.png)
 
 
 ## 实现 console.image()：
