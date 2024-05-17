@@ -5,7 +5,8 @@
 
 虽然我们可以把图片数据通过 img 标签展示到页面上，或将图片下载下来进行预览。但这样的调试过程实在是复杂，何不实现一个 console.image() 呢？
 ## 先上演示案例：
-[在线演示 https://bi.cool/bi/W1P1cyq](https://bi.cool/bi/W1P1cyq)
+[JS 实现浏览器控制台打印图片 console.image()
+，在线预览HTML - 笔.COOL](https://bi.cool/bi/W1P1cyq)
 
 （chrome 浏览器上演示效果）
 ![（chrome 浏览器上演示效果）](/console-image/1.png)
